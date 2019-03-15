@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(244, 244, 244);
+}
+
+/*Navbar Style*/
+.navbar{ background: #000000;}
+.nav-link , .navbar-brand{ color: #f4f4f4; cursor: pointer;}
+.navbar-brand:hover{ color: grey }
+.nav-link{ margin-right: 1em !important;}
+.nav-link:hover{ background: #f4f4f4; color: #000000; }
+.navbar-collapse{ justify-content: flex-end;}
+.navbar-toggler{  background:#fff !important;}
+
+/*Main page header description styles*/
+.description{
+    position: absolute;
+    top: 15%;
+    margin: auto;
+    padding: 2em;
+}
+
+.description h1{
+ color:#000000 ;
+}
+.description p{
+ color:#666;
+ font-size: 20px;
+ width: 100%;
+ line-height: 1.5;
+}
+.description button{
+ border:1px  solid #000000;
+ background: #000000;;
+ color:#fff;
+}
+
+.description ul{
+    color:#666;
+ font-size: 20px;
+ width: 100%;
+ line-height: 1.5;
+}

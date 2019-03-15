@@ -1,2 +1,2 @@
-# Steve-Earle.github.io
-A portfolio of my programming work
+# portfolio-rough-draft
+A working copy for my portfolio website
