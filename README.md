@@ -1,2 +1,4 @@
-# portfolio-rough-draft
-A working copy for my portfolio website
+# My Portfolio
+A website containing my programming work and experience
+
+https://steve-earle.github.io
