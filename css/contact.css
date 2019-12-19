@@ -36,12 +36,14 @@ body {
 
 /*Navbar Style*/
 .navbar{ background: #000000;}
-.nav-link , .navbar-brand{ color: #f4f4f4; cursor: pointer;}
+.nav-link , .navbar-brand{ color: #f4f4f4; cursor: pointer; font-size: 16px;}
+.navbar-brand{padding-left: .5em; padding-right: .5em; margin-left: -.5em;}
 .navbar-brand:hover{ background: #f4f4f4; color: #000000; }
 .nav-link{ margin-right: 1em !important;}
 .nav-link:hover{ background: #f4f4f4; color: #000000; }
 .navbar-collapse{ justify-content: flex-end;}
-.navbar-toggler{  background: url(/Steve-Earle.github.io/images/hamburger.png) !important; background-position: center }
+.navbar-toggler{  background: url(/Steve-Earle.github.io/images/hamburger.png) !important; background-position: center}
+.navbar-toggler:hover{ background: url(/Steve-Earle.github.io/images/hamburger\ -\ hover.png) !important; background-position: center;}
 
 /*Main page header description styles*/
 .description{
